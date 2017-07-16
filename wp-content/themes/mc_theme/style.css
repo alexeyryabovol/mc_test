@@ -1,0 +1,53 @@
+/*
+ *Theme Name: Matematica Company Test Theme
+ *Author: Alexey Ryabovol
+ *Description: Matematica Company Test Theme
+ */
+.product, .single-product{
+    padding: 40px 8px;
+    height: 200px;
+    background-color: #f5ae00;
+    border-radius: 10px;
+    border: 1px #00aadc solid;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.single-product{
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+}
+.title-product{
+    text-align: center;
+    margin-bottom: 40px;
+    color: #000;
+    font-weight: bold;
+}
+.a-buy{
+    color: #fff; 
+    text-decoration: none;   
+    background: rgb(212,75,56);
+    padding: 8px 10px; 
+    outline: none; 
+    border-radius: 10px;
+    display: block;
+    max-width: 78px;
+    margin: auto;  
+}
+.title-form{
+   font-weight: bold; 
+   font-size: 25px;
+   text-transform: uppercase;
+}
+.buy-form{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.text-form{
+    margin-top: 10px;
+}
+.buy-form button{
+    display: block;
+    margin-top: 10px;
+}
+
